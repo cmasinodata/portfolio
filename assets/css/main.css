@@ -3286,7 +3286,7 @@ input, select, textarea {
 					}
 
 					#footer > .inner .copyright {
-						margin-top: 3em;
+						margin-top: 0;
 					}
 
 		}
@@ -3294,7 +3294,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#footer > .inner .copyright {
-				margin-top: 3em;
+				margin-top: 0;
 			}
 
 				#footer > .inner .copyright li {
