@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Masino - Online News</title>
+		<title>Masino - Lego History</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -29,7 +29,7 @@
 								<div class="row">
 									<div class="col-6 col-12-medium">
 										<ul class="actions stacked">
-												<li><a href="https://github.com/cmasinodata/data-projects/blob/main/Online%20News:%20Cleaning%20%26%20Processing%20Data%20in%20SQL" target="_blank" class="button primary">See the code!</a></li>
+												<li><a href="https://github.com/cmasinodata/data-projects/blob/main/Lego%20History" target="_blank" class="button primary">See the code!</a></li>
 										</ul>
 									</div>
 								</div>
@@ -38,7 +38,7 @@
 							<section>
 								<h2>Images</h2>
 								<span class="image">
-								<img src="images/online_news_query.png" alt="" 
+								<img src="images/lego_history_graph1.png" alt="" 
 										      width="750"
 										      height="auto"
 										      />
